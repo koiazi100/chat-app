@@ -39,7 +39,7 @@
 - belongs_to :user
 
 ## messages テーブル
-
+ 
 | Column  | Type       | Options                        |
 | ------- | ---------- | ------------------------------ |
 | content | string     |                                |
